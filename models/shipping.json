@@ -1,0 +1,20 @@
+[
+  {
+    "addressLine1": "9999 Lightspeed Place",
+    "addressLine2": "",
+    "city": "51 And",
+    "state": "Andromeda",
+    "zip": "62824",
+    "phone number": "555-555-5500",
+    "customerId": "0"
+  },
+  {
+    "addressLine1": "1230 Black Hole Way",
+    "addressLine2": "Apt 102",
+    "city": "M104",
+    "state": "Sombrero Galaxy",
+    "zip": "50292",
+    "phone number": "555-555-5511",
+    "customerId": "1"
+  }
+]

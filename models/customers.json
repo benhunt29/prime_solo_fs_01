@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "James",
+    "lastName": "Maxwell",
+    "id": "0"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Feynman",
+    "id": "1"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Planck",
+    "id": "2"
+  },
+  {
+    "firstName": "Albert",
+    "lastName": "Einstein",
+    "id": "3"
+  }
+]

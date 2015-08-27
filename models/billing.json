@@ -1,0 +1,38 @@
+[
+  {
+    "addressLine1": "1023 Demon Rd",
+    "addressLine2": "",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "zip": "55412",
+    "phone number": "555-555-5550",
+    "customerId": "0"
+  },
+  {
+    "addressLine1": "123 QED Ln",
+    "addressLine2": "Apt 102",
+    "city": "Pasedena",
+    "state": "California",
+    "zip": "91101",
+    "phone number": "555-555-5551",
+    "customerId": "1"
+  },
+  {
+  "addressLine1": "6626 Quanta St",
+  "addressLine2": "E-34",
+  "city": "Gottingen",
+  "state": "Germany",
+  "zip": "92103",
+  "phone number": "555-555-5552",
+  "customerId": "2"
+  },
+  {
+  "addressLine1": "19 General Relativity Rd",
+  "addressLine2": "MC2",
+  "city": "Zurich",
+  "state": "Switzerland",
+  "zip": "35098",
+  "phone number": "555-555-5553",
+  "customerId": "3"
+  }
+]
