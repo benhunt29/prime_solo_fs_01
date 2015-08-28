@@ -9,6 +9,7 @@ var index = require('./routes/index');
 var customers = require('./routes/customers');
 var billing = require('./routes/billing');
 var shipping = require('./routes/shipping');
+var admin = require('./routes/admin');
 
 
 
@@ -28,6 +29,7 @@ app.use('/', index);
 app.use('/customers', customers);
 app.use('/billing', billing);
 app.use('/shipping', shipping);
+app.use('/admin',admin);
 
 
 // catch 404 and forward to error handler
